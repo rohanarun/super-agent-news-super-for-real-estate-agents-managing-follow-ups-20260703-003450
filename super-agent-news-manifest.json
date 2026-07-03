@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[MIT News](https://news.mit.edu/2026/what-is-agentic-ai-today)",
+    "[Yahoo Finance](https://finance.yahoo.com/news/servicenows-2-85-billion-moveworks-acquisition-set-to-revolutionize-ai-powered-workflow-automations-092400000.html)",
+    "[SC Media](https://www.scmagazine.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents)",
+    "[superdupr.com](https://superdupr.com/blog/ai-for-real-estate-agents)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reused_comparison_layout; AIDA=pass; hero_math=1120px_2.3_lines; bento_density=grid-auto-flow:dense; label_sweep=all_competitors_present; button_contrast=black/white_ok",
+  "generated_at": "2026-07-03T00:34:58.779299+00:00",
+  "headline": "Super for real estate agents managing follow-ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion-focused niche landing page for real estate agents who need instant follow-up, accurate listings, and zero-friction scheduling. Super positions itself as a sharper, cheaper-for-repetition alternative to chat-style assistants by operating real software and reusing a computer-use cache for durable workflows."
+}
